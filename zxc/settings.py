@@ -27,7 +27,7 @@ SECRET_KEY = '+b)uee40@l_-50uarh6t_bfx^kliwyenkzre)t=yg____-zplr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'ubuntn', '.zhenzhen.date']
+ALLOWED_HOSTS = ['127.0.0.1', 'ubuntu', '.zhenzhen.date']
 
 
 # Application definition
